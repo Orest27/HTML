@@ -60,3 +60,42 @@
     margin: 50px;
     box-shadow: rgb(110, 110, 110) 21px 21px 5px 0px;
 }
+.a1{
+    color: white;
+    background: #892726;
+    padding: 10px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    text-align:  center;
+}
+.a2
+{
+   color: black;
+   background: #c0c0c0;
+   padding: 20px;
+   margin-bottom: 0px;
+}
+.a3
+{
+    color: black;
+    background: #6395ec;
+    padding: 20px;
+    padding-left: 0px;
+}
+.a4 
+{
+    background: #6bba67;
+    color: #6bba67;
+    height: 200px;
+    width: 200px;
+    box-sizing: border-box;
+}
+.a5 
+{
+    background: #8886ab;
+    color: #8886ab;
+    height: 200px;
+    width: 200px;
+    box-sizing: border-box;
+    border-radius:7%;
+}
