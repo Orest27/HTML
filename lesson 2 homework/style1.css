@@ -1,0 +1,62 @@
+.targetA {
+    background: rgb(255, 145, 0);
+    height: 201px;
+    width: 201px;
+    box-sizing: border-box;
+    padding: 94px;
+    border: 2px solid rgb(255, 115, 0);
+    margin: 50px;
+    box-shadow: rgb(53, 52, 52) 21px 21px 0px 0px;
+}
+.targetB {
+    background: rgb(255, 145, 0);
+    height: 201px;
+    width: 201px;
+    box-sizing: border-box;
+    padding: 94px;
+    border: 2px solid rgb(255, 115, 0);
+    margin: 50px;
+    box-shadow: rgb(53, 52, 52) 21px 21px 5px 0px;
+}
+.targetC {
+    background: rgb(255, 145, 0);
+    height: 201px;
+    width: 201px;
+    box-sizing: border-box;
+    padding: 94px;
+    border: 2px solid rgb(255, 115, 0);
+    margin: 50px;
+    box-shadow: rgb(53, 52, 52) 21px 21px 5px 10px;
+}
+.targetD {
+    background: rgb(255, 145, 0);
+    height: 201px;
+    width: 201px;
+    box-sizing: border-box;
+    padding: 94px;
+    border: 2px solid rgb(255, 115, 0);
+    margin: 50px;
+    box-shadow: rgb(110, 110, 110) 21px 21px 8px 10px;
+}
+.targetE {
+    background: rgb(255, 145, 0);
+    height: 201px;
+    width: 201px;
+    box-sizing: border-box;
+    padding: 94px;
+    border: 2px solid rgb(255, 115, 0);
+    border-radius: 3%;
+    margin: 50px;
+    box-shadow: rgb(53, 52, 52) 21px 21px 5px 0px;
+}
+.targetF {
+    background: rgb(255, 145, 0);
+    height: 201px;
+    width: 201px;
+    box-sizing: border-box;
+    padding: 94px;
+    border: 2px solid rgb(255, 115, 0);
+    border-radius: 3%;
+    margin: 50px;
+    box-shadow: rgb(110, 110, 110) 21px 21px 5px 0px;
+}
