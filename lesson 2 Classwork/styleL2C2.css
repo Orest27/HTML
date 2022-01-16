@@ -1,0 +1,21 @@
+.A1
+{
+    background: #808080;
+    color: #808080;
+    height: 200px;
+    width: 550px;
+    margin-top: 100px;
+    box-shadow:
+    #d3b594 -7px -7px 25px 7px;;
+   
+}
+.target
+{
+    margin-top: 15px;
+    border-left: 4px solid red;
+}
+p
+{
+    margin: 0px;
+    margin-left: 11px;
+}
