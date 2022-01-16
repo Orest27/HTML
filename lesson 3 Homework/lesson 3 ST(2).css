@@ -1,0 +1,57 @@
+.post1
+{
+    background: royalblue;
+    color: black;
+    height: 110px;
+    width: 325px;
+    box-sizing: border-box;
+    border: 2px solid black;
+    padding: 3em 0;
+    text-align: center;
+    margin: 5px;
+    margin-top: 10px;
+}
+.post2
+{
+    background: royalblue;
+    color: black;
+    height: 110px;
+    width: 325px;
+    box-sizing: border-box;
+    border: 2px solid black;
+    padding: 3em 0;
+    text-align: center;
+    margin: 5px;
+    margin-bottom: 10px;
+}
+.menu
+{
+    background: rgb(225, 65, 158);
+    color: black;
+    height: 225px;
+    width: 105px;
+    box-sizing: border-box;
+    border: 2px solid black;
+    text-align: center;
+    padding-top: 90px;
+    margin-top: 10px;
+}
+.menupost
+{
+    background: white;
+    height:240px;
+    width: 435px;
+    display: flex;
+    margin: 0px;
+}
+.header
+{
+    background: rgb(97, 225, 65);
+    color: black;
+    height: 60px;
+    width: 435px;
+    box-sizing: border-box;
+    border: 2px solid black;
+    padding: 3em 0;
+    text-align: center;
+}
