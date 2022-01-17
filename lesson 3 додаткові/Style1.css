@@ -1,0 +1,72 @@
+ .IC 
+ {
+     font-size: 60px;
+     color: #999999;
+     display: flex;
+     align-items: center;
+ }
+ .Icon
+ {
+     height: 70px;
+     width: 250px;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     margin-top: 25px;
+
+ }
+.Interface
+{
+    background: white;
+    height: 350px;
+    width: 250px;
+    border: 1px solid #999999;
+    border-right: 3px solid #999999 ;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    margin: 20px;
+}
+.Title
+{
+    font-size: 35px;
+    color: #c3834f;
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+.Text
+{
+    font-size: 15px;
+    color: black;
+    text-align: center;
+}
+.Batton
+{
+    background: #55c3b6;
+    color: white;
+    height: 46px;
+    width: 190px;
+    margin: auto;
+    text-align: center;
+    border-radius: 5px;
+}
+.Batton
+{
+font-size: 17px;
+}
+.global
+{
+    display: flex;
+    justify-content: center;
+}
+.GG
+{
+    font-size: 45px;
+    color: black;
+}
+.GGG
+{
+    text-align: center;
+}
