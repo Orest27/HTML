@@ -1,0 +1,70 @@
+p
+{
+font-size: 15px;
+color: white;
+}
+.C
+{
+    background: grey;
+    height: 70px;
+    width: 70px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin: 1px;
+}
+.CDE
+{
+    display: flex;
+}
+.FB
+{
+    display: flex;
+    flex-direction: row-reverse;
+}
+.B
+{
+    background: grey;
+    height: 70px;
+    width: 214px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin: 1px;
+}
+.F
+{
+    background: grey;
+    height: 142px;
+    width: 70px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin: 1px;
+}
+.A
+{
+    background: grey;
+    height: 70px;
+    width: 285px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin: 1px;
+}
+.global
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    height: 222px;
+    width: 298px;
+    border: 3px solid rgb(117, 101, 101);
+    border-radius: 13px;
+}
