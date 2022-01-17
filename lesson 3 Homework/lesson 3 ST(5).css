@@ -1,0 +1,52 @@
+body{background: #06bcd4;}
+.WhiteBoard
+{
+    background: white;
+    height: 180px;
+    width: 550px;
+    border-radius: 20px;
+    display: flex;
+    margin: 10px;
+    
+}
+.IC
+{
+    height: 180px;
+    width: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Text
+{
+    height: 180px;
+    width: 400px;
+}  
+.IC > i
+{
+    font-size: 80px;
+    color: #949494;
+}
+.ZG
+{
+    font-size: 25px;
+    color: #ff9a22;
+}
+.TX 
+{
+    font-size: 15px;
+    color: #949494;
+}
+.TwoBoard
+{
+    display: flex;
+}
+.global
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+   
