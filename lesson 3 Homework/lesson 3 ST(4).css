@@ -1,0 +1,60 @@
+.a2
+{
+    background: coral;
+    color: white;
+    height: 150px;
+    width: 250px;
+    text-align: center;
+    margin: 1px;
+    display: flex;
+}
+.a1
+{
+    background: rgb(80, 170, 255);
+    color: white;
+    height: 150px;
+    width: 110px;
+    text-align: center;
+    margin: 1px;
+    display: flex;
+}
+.AA
+{
+    display: flex;
+    height: auto;
+    width: auto;
+}
+p { 
+    margin: auto;
+    font-size: 25px;
+ }
+ .b1
+{
+    background: rgb(0, 32, 61);
+    color: white;
+    height: 50px;
+    width: 362px;
+    text-align: center;
+    margin: 1px;
+    display: flex;
+}
+.b2
+{
+    background: rgb(61, 52, 0);
+    color: white;
+    height: 70px;
+    width: 362px;
+    text-align: center;
+    margin: 1px;
+    display: flex;
+}
+.c1
+{
+    background: rgb(48, 8, 224);
+    color: white;
+    height: 50px;
+    width: 362px;
+    text-align: center;
+    margin: 1px;
+    display: flex;
+}
