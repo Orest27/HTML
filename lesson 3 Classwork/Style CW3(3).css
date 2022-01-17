@@ -1,0 +1,46 @@
+p
+{
+    font-size: 15px;
+    color: white;
+}
+.Box1
+{
+    background: #16457a;
+    height: 190px;
+    width: 100px;
+    margin: 3px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.BBox1
+{
+    display: flex;
+}
+.Box2
+{
+    background: #2269bb;
+    height: 100px;
+    width: 312px;
+    margin: 3px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Box3
+{
+    background: #2269bb;
+    height: 300px;
+    width: 153px;
+    margin: 3px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.global
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
