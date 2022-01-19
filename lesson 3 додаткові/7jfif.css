@@ -1,0 +1,99 @@
+.Text1
+{
+    color: white;
+    font-size: 10px;
+}
+.Text
+{
+    color: white;
+    font-size: 20px;
+}
+.Footer
+{
+    height: 45px;
+    width: 600px;
+    margin: 2px;
+    background: darkorange;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.Rp
+{
+    height: 85px;
+    width: 198px;
+    margin: 2px;
+    background: rgba(255, 0, 0, 0.212);
+    display: flex;
+    align-items: center;
+    justify-content: center;  
+}
+.Ri
+{
+    height: 85px;
+    width: 398px;
+    margin: 2px;
+    background: rgb(43, 255, 0);
+    display: flex;
+    align-items: center;
+    justify-content: center;   
+}
+.RpRi
+{
+    display: flex;
+}
+.Ec
+{
+    height: 148px;
+    width: 398px;
+    margin: 2px;
+    background: rgb(35, 35, 41);
+    display: flex;
+    align-items: center;
+    justify-content: center;  
+}
+.Mc
+{
+    height: 248px;
+    width: 398px;
+    margin: 2px;
+    background: rgb(219, 137, 14);
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    text-align: center;
+}
+.S
+{
+    height: 248px;
+    width: 198px;
+    margin: 2px;
+    background: rgb(147, 219, 14);
+    display: flex;
+    align-items: center;
+    justify-content: center;  
+}
+.H
+{
+    height: 148px;
+    width: 198px;
+    margin: 2px;
+    background: rgba(219, 14, 168, 0.219);
+    display: flex;
+    align-items: center;
+    justify-content: center;  
+}
+.G1
+{
+    display: flex;
+}
+.Header
+{
+    height: 45px;
+    width: 600px;
+    margin: 2px;
+    background: rgb(0, 195, 255);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
