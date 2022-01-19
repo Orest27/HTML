@@ -270,6 +270,10 @@ background: #b4cad6;
 {
     display: flex;
 }
+.SBB6B
+{
+    display: flex;
+}
 .circle1B
 {
     background: black;
@@ -290,7 +294,8 @@ background: #b4cad6;
     width: 10px;
     border-radius: 50px;
     position: absolute;
-    margin-right: 10px;
+    top: 27px;
+    left: 193px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -329,6 +334,31 @@ background: #b4cad6;
     justify-content: center;
     align-items: center;
     margin-top: 25px;
+}
+.circle6B
+{
+    background: black;
+    height: 10px;
+    width: 10px;
+    border-radius: 50px;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 17px;
+    margin-left: 49px;
+}
+.circle7B
+{
+    background: black;
+    height: 10px;
+    width: 10px;
+    border-radius: 50px;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5px;
 }
 .HeadB
 {
@@ -457,7 +487,29 @@ background: #b4cad6;
 .Sbox6B
 {
     background-color: #e7e7e8;
-    height: 14px;
+    height: 10px;
     width: 49px;
-    margin: 3px;   
+    margin: 2px; 
+    margin-top: 3px;  
+}
+.Sbox61B
+{
+    background-color: #e7e7e8;
+    height: 36px;
+    width: 49px;
+    margin: 3px;  
+}
+.Sbox7B
+{
+    background-color: #e7e7e8;
+    height: 6px;
+    width: 90px;
+    margin: 2px;  
+}
+.Sbox71B
+{
+    background-color: #e7e7e8;
+    height: 6px;
+    width: 30px;
+    margin: 2px;  
 }
