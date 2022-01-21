@@ -1,0 +1,158 @@
+.divforhead
+{
+    display: flex;
+    justify-content: center;
+}
+.divforborder
+{
+    height: 440px;
+    width: 400px;
+    border: 5px solid #176dee;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.bigdivforbox
+{
+    display: flex;
+    justify-content: space-between; 
+    margin-left: 85px; 
+    margin-right: 85px; 
+    margin-top: 30px;
+}
+.divforline1B
+{
+    display: flex;
+}
+.divforline1B2
+{
+    display: flex;
+    justify-content: space-between;
+}
+.divforbox
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.divforcircle
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 120px;
+}
+.TXT
+{
+    font-size: 3px;
+    color: darkblue;
+}
+.TXT1
+{
+    font-size: 3px;
+    color: #d1b9e9;
+}
+.Background1
+{
+    height: 500px;
+    width: 1800px;
+    background: #d1b9e9; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Background2
+{
+    height: 500px;
+    width: 1800px;
+    background: darkblue; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.VeryBigBorder1
+{
+    height: 450px;
+    width: 1700px;
+    background: #d1b9e9; 
+    border: 5px solid #176dee;
+    border-radius: 40px;
+}
+.SlineH1
+{
+    height: 10px;
+    width: 180px;
+    background: darkblue;
+    border-radius: 50px;
+    margin-top: 20px;
+}
+.SlineH2
+{
+    height: 10px;
+    width: 140px;
+    background: darkblue;
+    border-radius: 50px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.Sline1B
+{
+    height: 10px;
+    width: 100px;
+    background: darkblue;
+    border-radius: 50px;
+    margin-top: 20px;
+    margin-left: 50px;
+}
+.Sline11B
+{
+    height: 10px;
+    width: 90px;
+    background: darkblue;
+    border-radius: 50px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.Sline1C
+{
+    height: 15px;
+    width: 160px;
+    background: #d1b9e9;
+    border-radius: 50px;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+.Sline2C
+{
+    height: 15px;
+    width: 130px;
+    background: #d1b9e9;
+    border-radius: 50px;
+    margin-top: 20px;
+}
+.VSline1
+{
+    height: 10px;
+    width: 90px;
+    background: #d1b9e9;
+    border-radius: 50px;
+    margin-top: 10px;
+}
+.Box1
+{
+    height: 310px;
+    width: 310px;
+    background: darkblue;
+    border-radius: 50px;
+    margin-top: 20px; 
+}
+.circle1
+{
+    height: 310px;
+    width: 310px;
+    background: #d1b9e9;
+    border-radius: 50%;
+    margin-top: 10px; 
+    text-align: center;
+}
