@@ -1,0 +1,84 @@
+.A
+{
+    height: 200px;
+    width: 800px;
+    margin: 10px;
+}
+.B 
+{
+ height: 400px;
+ width: 550px;
+ margin: 10px;
+ margin-top: 0px;
+ margin-right: 0px;
+}
+.C 
+{
+    height: 400px;
+    width: 245px;
+    margin: 10px;
+    margin-top: 0px;
+}
+.Background
+{
+    background-color: #d9d9d9;
+}
+.divforflex
+{
+    display: flex;
+}
+p
+{
+    font-size: 80px;
+    color: black;
+}
+.TXT
+{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+.border
+{
+    border: 5px solid #909090;
+    border-radius: 20px;
+    width: 820px;
+}
+@media screen and (max-width: 400px) 
+{
+p
+{
+font-size: 40px;
+}
+.border
+{
+    border: 5px solid #909090;
+    border-radius: 20px;
+    width: 380px;
+}
+.divforflex
+{
+    display: flex;
+    flex-direction: column;
+}
+.A
+{
+    height: 100px;
+    width: 370px;
+    margin: 5px;
+    margin-bottom: 0px;
+}
+.B
+{
+    height: 100px;
+    width: 370px;
+    margin: 5px;
+    margin-bottom: 0px;
+}
+.C
+{
+    height: 100px;
+    width: 370px;
+    margin: 5px;
+}
+}
