@@ -1,0 +1,212 @@
+.bg-grey {
+    background-color: #949494;
+}
+
+.main-txt {
+    font-size: 26px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    color: white;
+}
+
+p {
+    font-size: 26px;
+    color: red;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+span {
+    color: red;
+}
+
+.left-side-txt {
+    font-size: 26px;
+    color: white;
+}
+
+.flex-group {
+    display: flex;
+}
+
+.desktop-1 {
+    width: 120px;
+    height: 100px;
+    margin-right: 4px;
+    margin-bottom: 4px;
+}
+
+.desktop-2 {
+    width: 560px;
+    height: 100px;
+    margin-bottom: 4px;
+}
+
+.desktop-3 {
+    width: 120px;
+    height: 340px;
+    margin-bottom: 4px;
+    margin-right: 4px;
+
+}
+
+.desktop-4 {
+    width: 410px;
+    height: 180px;
+}
+
+.desktop-5 {
+    width: 140px;
+    height: 180px;
+    margin-left: 4px;
+}
+
+.desktop-8 {
+    width: 120px;
+    height: 135px;
+    margin-right: 4px;
+    margin-bottom: 4px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+
+.desktop-9 {
+    width: 120px;
+    height: 135px;
+    margin-right: 4px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+
+.desktop-6 {
+    width: 410px;
+    height: 440px;
+    margin-top: 4px;
+}
+
+.desktop-7 {
+    width: 140px;
+    height: 440px;
+    margin-top: 4px;
+    margin-left: 4px;
+}
+
+.desktop-10 {
+    width: 690px;
+    height: 180px;
+    margin-top: 4px;
+}
+
+@media screen and (min-width: 900px) {
+
+    .bg-grey {
+        background-color: #949494;
+    }
+
+    .main-txt {
+        font-size: 16px;
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        justify-content: center;
+        color: white;
+    }
+
+    p {
+        font-size: 16px;
+        color: red;
+        margin-bottom: 0;
+        margin-top: 0;
+    }
+
+    span {
+        color: red;
+    }
+
+    .left-side-txt {
+        font-size: 16px;
+        color: white;
+    }
+
+    .flex-group {
+        display: flex;
+    }
+
+    .desktop-1 {
+        width: 109px;
+        height: 50px;
+        margin-right: 4px;
+        margin-bottom: 4px;
+    }
+
+    .desktop-2 {
+        width: 230px;
+        height: 50px;
+        margin-bottom: 4px;
+    }
+
+    .desktop-3 {
+        width: 60px;
+        height: 170px;
+        margin-bottom: 4px;
+        margin-right: 4px;
+
+    }
+
+    .desktop-4 {
+        width: 205px;
+        height: 90px;
+    }
+
+    .desktop-5 {
+        width: 70px;
+        height: 90px;
+        margin-left: 4px;
+    }
+
+    .desktop-8 {
+        width: 60px;
+        height: 70px;
+        margin-right: 4px;
+        margin-bottom: 4px;
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        align-items: center;
+    }
+
+    .desktop-9 {
+        width: 60px;
+        height: 70px;
+        margin-right: 4px;
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        align-items: center;
+    }
+
+    .desktop-6 {
+        width: 205px;
+        height: 224px;
+        margin-top: 4px;
+    }
+
+    .desktop-7 {
+        width: 70px;
+        height: 224px;
+        margin-top: 4px;
+        margin-left: 4px;
+    }
+
+    .desktop-10 {
+        width: 345px;
+        height: 90px;
+        margin-top: 4px;
+
+    }}
