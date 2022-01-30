@@ -13,6 +13,9 @@
     margin-right: 32px;
     margin-left: 36px;
 }
+button{
+    cursor: pointer;
+}
 .mxw1440{
     max-width: 1440px;
 }
@@ -21,6 +24,7 @@
 }
 .Button{
     grid-column-gap: 24px;
+    
 }
 .Button,
 .nav_menu,
@@ -92,7 +96,7 @@ a {
     border-radius: 4px;
     font-size: 16px;
     line-height: 24px;
-    cursor: pointer;
+    
 }
 .first_title{
     height: 256px;
